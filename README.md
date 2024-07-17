@@ -3,7 +3,7 @@
 Welcome to my GitHub profile!
 
 # About Me
-I am a MCA 2nd year student with a passion for developing innovative solutions, data analysis, machine learning. I enjoy working with technologies like,  C++, Python, Qt, node js and always eager to learn new skills and collaborate on exciting projects.
+I am a MCA 2nd year student with a passion for developing innovative solutions, data analysis, machine learning. I enjoy working with technologies like,  C++, Python, node js and always eager to learn new skills and collaborate on exciting projects.
 
 # Skills
 - Languages: C++, Python, JavaScript
